@@ -1,0 +1,16 @@
+<!DOCTYPE>
+<html>
+<head>
+	<title> My first website 
+	</title>
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+       <div class = 'header'>Header</div>
+       <div class = 'banner'>Banner</div>
+       <div class = 'content' >Content</div>
+       <div class = 'footer'>Footer</div>
+</body>
+
+
+</html>
